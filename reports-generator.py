@@ -1,4 +1,6 @@
-#Here is just a list of imports
+#This just provides a sample of the code created.
+
+#Here is just the list of imports
 # Get useful libraries
 from glob import glob
 from re import search
