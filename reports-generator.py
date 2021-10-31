@@ -1,4 +1,4 @@
-#This just provides a sample of the code created.
+#This is just to provide a sample of what this system does and looks like.
 
 #Here is just the list of imports
 # Get useful libraries
